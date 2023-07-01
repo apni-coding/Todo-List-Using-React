@@ -1,4 +1,5 @@
-To create a README file for the provided code, you can follow the structure below:
+#Hosted Link
+https://apni-coding.github.io/Todo-List-Using-React/
 
 # Todo List
 
@@ -53,9 +54,6 @@ You can find the complete list of dependencies with their versions in the `packa
 
 The application uses the JSONPlaceholder API to fetch and update tasks. The API endpoint used is: https://jsonplaceholder.typicode.com/todos
 
-## Screenshots
-
-Include some screenshots of the application to give readers a visual representation of how it looks and functions.
 
 ## Contributing
 
@@ -67,13 +65,11 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push your changes to your fork.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 - The Todo List app was created as a learning exercise based on a tutorial or example.
 - [React](https://reactjs.org/) - The JavaScript library used for building the user interface.
 - [React Toastify](https://fkhadra.github.io/react-toastify/) - A library for displaying toast notifications in React applications.
-
+  ## Owner
+  Vivek Kumar
